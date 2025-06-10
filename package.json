@@ -1,0 +1,18 @@
+{
+  "name": "01.discordbot_2025_afkstacks",
+  "version": "1.0.0",
+  "description": "A Discord bot providing solutions for managing **OSRS Clans**, built with [discord.js](https://discord.js.org/), [Node.js](https://nodejs.org/en), and [MongoDB](https://www.mongodb.com/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .",
+    "lint": "eslint ."
+  },
+  "keywords": [],
+  "author": "github.com/goodecodes",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.28.0",
+    "eslint": "^9.28.0"
+  }
+}
