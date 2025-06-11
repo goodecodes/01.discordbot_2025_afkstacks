@@ -14,5 +14,17 @@
   "devDependencies": {
     "@eslint/js": "^9.28.0",
     "eslint": "^9.28.0"
+  },
+  "dependencies": {
+    "@wise-old-man/utils": "^3.3.11",
+    "discord.js": "^14.19.3",
+    "axios": "^1.8.4",
+    "chrono-node": "^2.7.9",
+    "date-fns": "^4.1.0",
+    "dotenv": "^16.4.7",
+    "luxon": "^3.5.0",
+    "node-cron": "^3.0.3",
+    "node-fetch": "^3.3.2",
+    "node-schedule": "^2.1.1"
   }
 }
